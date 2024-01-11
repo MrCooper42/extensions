@@ -6,11 +6,11 @@
 
 ## Source Code
 
-https://github.com/keiyoushi/extensions-source
+https://github.com/MrCooper42/extensions-source
 
 ## Report issues
 
-https://github.com/keiyoushi/extensions-source/issues/new/choose
+https://github.com/MrCooper42/extensions-source/issues/new/choose
 
 ## Guide
 
@@ -23,14 +23,14 @@ Tachiyomi (v0.15.0+ or r6376+):
 TachiyomiSY:
 1. Go to More → Settings → Browse
 2. Tap on "Edit repos" and then "Add" button at bottom
-3. Input `keiyoushi/extensions`
+3. Input `MrCooper42/extensions`
 4. Enjoy!
 
 TachiyomiAZ:
 1. Go to Settings → Browse
 2. Tap on "Edit repos" and then "+" button at bottom
-3. Input `keiyoushi/extensions`
+3. Input `MrCooper42/extensions`
 4. Enjoy!
 
 Others:
-- If you're not using any of the above fork then manually download and update extensions from https://github.com/keiyoushi/extensions/tree/repo/apk
+- If you're not using any of the above fork then manually download and update extensions from https://github.com/MrCooper42/extensions/tree/repo/apk
